@@ -26,4 +26,4 @@ https://www.npmjs.com/package/bash-obfuscate
 bashfuscator  
 https://github.com/Bashfuscator/Bashfuscator
 
-安装方式见各项目自身README, 此处略.
+安装方式见各项目自已的README, 此处略.
